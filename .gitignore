@@ -1,1 +1,4 @@
 /data
+/geopandas
+/venv
+/.ipynb*
